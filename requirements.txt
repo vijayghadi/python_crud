@@ -1,0 +1,14 @@
+-i https://pypi.theorchard.io/pypi/
+blinker==1.4
+Flask==0.10
+newrelic==2.60.0.46
+oto==1.0.1
+owslogger==0.1.1
+owsrequest==0.4.0
+raven==5.10
+PyMySQL==0.7.5
+SQLAlchemy==1.0.14
+jsonschema==2.5.1
+pyraml-parser==0.1.5
+python-env==1.0.0
+requests==2.10.0
